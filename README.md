@@ -26,7 +26,7 @@ CampusFlow is a modern student productivity dashboard designed to help students 
 ## Live Demo
 
 🔗 **Live Website:**  
-campusflow-8q26.vercel.app
+[campusflow-8q26.vercel.app](https://campusflow-8q26-git-main-toobashahzad12s-projects.vercel.app)
 
 
 ## 📂 Installation
